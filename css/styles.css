@@ -1,19 +1,32 @@
-.titulo{
+.todo{
 
 }
 
 .menu{
-
+    display: flex;
+    height: 100%;
+  
 }
 
-.cuerpo{
+.textoa{
 
 }
 
 .servicios{
+}
 
+.tabla{
+    display: flex;
 }
 
 .footer{
-    
+    display: flex;
+}
+
+h1{
+
+}
+
+h6{
+
 }
